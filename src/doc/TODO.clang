@@ -1,0 +1,16 @@
+$NetBSD: TODO.clang,v 1.16 2015/03/19 19:27:14 joerg Exp $
+
+Hacks for the clang integration
+-------------------------------
+
+"-no-integrated-as" is used in src/sys/arch/i386/stand to compensate
+for the incomplete explicit positioning support in LLVM MC.
+
+src/external/gpl3/gcc/usr.bin/backend forces tree.c to be compiled with -O0.
+g++ otherwise crashes on trivial input.
+
+src/external/mit/xorg/lib/pixman uses -fno-integrated-as on ARM for the
+macro (ab)use.
+
+src/crypto/external/bsd/openssl/lib/libcrypto/arch/arm
+uses -fno-integrated-as to work-around a bug in the relaxation handling.
