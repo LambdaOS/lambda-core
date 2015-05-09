@@ -1,5 +1,5 @@
 #
-#	$NetBSD: JETSONTK1,v 1.10 2015/05/03 18:49:28 jmcneill Exp $
+#	$NetBSD: JETSONTK1,v 1.12 2015/05/07 23:55:31 jmcneill Exp $
 #
 #	NVIDIA Jetson TK1 - Tegra K1 development kit
 #	https://developer.nvidia.com/jetson-tk1
@@ -49,6 +49,9 @@ tegracar0	at tegraio?		# CAR
 tegragpio0	at tegraio?		# GPIO
 gpio*		at gpiobus?
 
+# MPIO / Pinmux
+tegrampio0	at tegraio?		# MPIO
+
 # PCIE
 tegrapcie0	at tegraio?		# PCIE
 pci*		at tegrapcie0
@@ -63,6 +66,9 @@ ukphy*		at mii? phy ?
 # UART
 com3		at tegraio? port 3	# UART-D
 options 	CONSADDR=0x70006300, CONSPEED=115200
+
+# RTC
+tegrartc0	at tegraio?		# RTC
 
 # SDMMC
 sdhc2		at tegraio? port 2	# SDMMC3 (SD card)
