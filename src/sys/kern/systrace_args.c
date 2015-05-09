@@ -1,4 +1,4 @@
-/* $NetBSD: systrace_args.c,v 1.2 2015/03/12 15:06:28 christos Exp $ */
+/* $NetBSD: systrace_args.c,v 1.4 2015/05/09 06:06:14 pgoyette Exp $ */
 
 /*
  * System call argument to DTrace register array converstion.
