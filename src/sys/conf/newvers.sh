@@ -190,7 +190,7 @@ fi
 
 osrelcmd=${cwd}/osrelease.sh
 
-ost="NetBSD"
+ost="Lambda"
 osr=$(sh $osrelcmd)
 
 if [ ! -z "${rflag}" ]; then

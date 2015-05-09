@@ -162,16 +162,12 @@ distribution: .PHONY .MAKE check_DESTDIR distrib-dirs
 
 # motd is copied from a different ${MOTD_SOURCE} depending on DISTRIBVER
 #
-.if !empty(DISTRIBVER:M*.99.*)
-MOTD_SOURCE=	motd.current
-.elif !empty(DISTRIBVER:M*BETA*)
-MOTD_SOURCE=	motd.beta
-.elif !empty(DISTRIBVER:M*RC*)
-MOTD_SOURCE=	motd.rc
-.elif !empty(DISTRIBVER:M*STABLE*)
+.if !empty(DISTRIBVER:M∞)
+MOTD_SOURCE=	motd.head
+.elif !empty(DISTRIBVER:MSTABLE)
 MOTD_SOURCE=	motd.stable
 .else
-MOTD_SOURCE=	motd.default
+MOTD_SOURCE=	motd.release
 .endif
 CLEANFILES+= motd
 motd: ${.CURDIR}/${MOTD_SOURCE} ${_NETBSD_VERSION_DEPENDS}

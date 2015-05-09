@@ -38,7 +38,7 @@
 cwd=$(dirname $0)
 
 add_name=yes
-add_date=no
+add_date=yes
 add_kernrev=yes
 
 # parse command args
