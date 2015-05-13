@@ -1,0 +1,53 @@
+/README/1.1.1.1/Wed Jul 30 04:16:26 2008//
+/TODO/1.1.1.1/Wed Jul 30 04:16:22 2008//
+/bytecode.c/1.1.1.2/Tue Mar 10 03:48:42 2009//
+/bytecode.h/1.1.1.1/Wed Jul 30 04:16:24 2008//
+/compile.c/1.1.1.2/Tue Mar 10 03:48:42 2009//
+/core.c/1.1.1.3/Fri May 31 06:13:21 2013//
+/core.h/1.1.1.1/Wed Jul 30 04:16:22 2008//
+/debugger.c/1.1.1.1/Wed Jul 30 04:16:22 2008//
+/debugger.h/1.1.1.1/Wed Jul 30 04:16:27 2008//
+/format.c/1.1.1.2/Tue Mar 10 03:48:42 2009//
+/format.h/1.1.1.1/Wed Jul 30 04:16:22 2008//
+/getenv.c/1.1.1.1/Fri May 31 06:13:21 2013//
+/hash.c/1.1.1.2/Tue Mar 10 03:48:42 2009//
+/hash.h/1.1.1.1/Wed Jul 30 04:16:26 2008//
+/helper.c/1.1.1.2/Tue Mar 10 03:48:42 2009//
+/helper.h/1.1.1.1/Wed Jul 30 04:16:25 2008//
+/internal.h/1.1.1.2/Tue Mar 10 03:48:42 2009//
+/io.c/1.1.1.3/Sun Nov 21 01:15:33 2010//
+/io.h/1.1.1.1/Wed Jul 30 04:16:23 2008//
+/lisp.c/1.1.1.3/Fri May 31 06:13:22 2013//
+/lisp.h/1.1.1.1/Wed Jul 30 04:16:26 2008//
+/lsp.c/1.1.1.1/Wed Jul 30 04:16:23 2008//
+/math.c/1.1.1.2/Tue Mar 10 03:48:42 2009//
+/math.h/1.1.1.1/Wed Jul 30 04:16:21 2008//
+/mathimp.c/1.1.1.2/Fri May 31 06:13:21 2013//
+/package.c/1.1.1.2/Tue Mar 10 03:48:42 2009//
+/package.h/1.1.1.1/Wed Jul 30 04:16:22 2008//
+/pathname.c/1.1.1.1/Wed Jul 30 04:16:23 2008//
+/pathname.h/1.1.1.1/Wed Jul 30 04:16:26 2008//
+/private.h/1.1.1.2/Tue Mar 10 03:48:42 2009//
+/read.c/1.1.1.3/Fri May 31 06:13:21 2013//
+/read.h/1.1.1.1/Wed Jul 30 04:16:26 2008//
+/regex.c/1.1.1.1/Wed Jul 30 04:16:26 2008//
+/regex.h/1.1.1.1/Wed Jul 30 04:16:22 2008//
+/require.c/1.1.1.1/Wed Jul 30 04:16:23 2008//
+/require.h/1.1.1.1/Wed Jul 30 04:16:21 2008//
+/setenv.c/1.1.1.1/Fri May 31 06:13:21 2013//
+/stream.c/1.1.1.2/Tue Mar 10 03:48:42 2009//
+/stream.h/1.1.1.1/Wed Jul 30 04:16:23 2008//
+/string.c/1.1.1.2/Tue Mar 10 03:48:42 2009//
+/string.h/1.1.1.1/Wed Jul 30 04:16:22 2008//
+/struct.c/1.1.1.2/Tue Mar 10 03:48:42 2009//
+/struct.h/1.1.1.1/Wed Jul 30 04:16:23 2008//
+/time.c/1.1.1.1/Wed Jul 30 04:16:21 2008//
+/time.h/1.1.1.1/Wed Jul 30 04:16:26 2008//
+/write.c/1.1.1.2/Tue Mar 10 03:48:42 2009//
+/write.h/1.1.1.1/Wed Jul 30 04:16:23 2008//
+/xedit.c/1.1.1.1/Wed Jul 30 04:16:27 2008//
+/xedit.h/1.1.1.1/Wed Jul 30 04:16:26 2008//
+D/modules////
+D/mp////
+D/re////
+D/test////

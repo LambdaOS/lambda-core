@@ -1,0 +1,63 @@
+/README/1.1.1.1/Mon Jun 20 05:54:39 2011//
+/addaddmul_1msb0.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/addmul_2.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/aorrlsh1_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/aorrlsh2_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/aorrlshC_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
+/aorrlsh_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/aors_err1_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
+/aors_err2_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
+/aors_err3_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
+/aors_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/aorscnd_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
+/aorsmul_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/bdiv_dbm1c.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/bdiv_q_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/com.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/copyd.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/copyi.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/darwin.m4/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/div_qr_2n_pi1.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
+/div_qr_2u_pi1.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
+/dive_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/divrem_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/divrem_2.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/dos64.m4/1.1.1.1/Fri Nov 29 07:49:48 2013//
+/gcd_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/gmp-mparam.h/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/invert_limb.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/invert_limb_table.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
+/logops_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/lshift.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/lshiftc.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/lshsub_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/mod_1_1.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
+/mod_1_2.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
+/mod_1_4.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/mod_34lsub1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/mode1o.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/mul_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/mul_2.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/mul_basecase.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/mullo_basecase.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
+/mulmid_basecase.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
+/popham.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/redc_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/rsh1aors_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/rshift.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/sqr_basecase.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/sublsh1_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/tabselect.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
+/x86_64-defs.m4/1.1.1.2/Fri Nov 29 07:49:48 2013//
+D/atom////
+D/bd1////
+D/bobcat////
+D/core2////
+D/coreinhm////
+D/coreisbr////
+D/fastsse////
+D/fat////
+D/k10////
+D/k8////
+D/nano////
+D/pentium4////

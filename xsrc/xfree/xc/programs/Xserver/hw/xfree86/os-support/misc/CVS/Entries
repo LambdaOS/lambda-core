@@ -1,0 +1,12 @@
+/BUSmemcpy.S/1.1.1.3/Sat Jun  9 15:08:39 2001//
+/BUSmemcpy.c/1.1.1.3/Sat Jun  9 15:08:39 2001//
+/Delay.c/1.1.1.4/Fri Mar  5 14:29:20 2004//
+/IODelay.S/1.1.1.3/Sat Jun  9 15:08:39 2001//
+/IODelay.c/1.1.1.3/Sat Jun  9 15:08:39 2001//
+/Imakefile/1.7/Fri Mar 18 14:55:16 2005//
+/PortIO.S/1.1.1.2/Fri Mar 18 13:12:38 2005//
+/SlowBcopy.S/1.1.1.3/Sat Jun  9 15:08:39 2001//
+/SlowBcopy.c/1.1.1.5/Fri Mar  5 14:29:20 2004//
+/xf86_IlHack.c/1.1.1.3/Sat Jun  9 15:08:39 2001//
+/xf86_Util.c/1.1.1.4/Sat Jan 19 15:12:37 2002//
+D

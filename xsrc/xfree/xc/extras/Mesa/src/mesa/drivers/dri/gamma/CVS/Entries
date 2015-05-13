@@ -1,0 +1,25 @@
+/Makefile/1.1.1.1/Fri Mar 18 13:06:23 2005//
+/gamma_client.h/1.1.1.1/Fri Mar 18 13:06:24 2005//
+/gamma_context.c/1.1.1.1/Fri Mar 18 13:06:24 2005//
+/gamma_context.h/1.1.1.1/Fri Mar 18 13:06:24 2005//
+/gamma_dd.c/1.1.1.1/Fri Mar 18 13:06:24 2005//
+/gamma_inithw.c/1.1.1.1/Fri Mar 18 13:06:24 2005//
+/gamma_lock.c/1.1.1.1/Fri Mar 18 13:06:24 2005//
+/gamma_lock.h/1.1.1.1/Fri Mar 18 13:06:24 2005//
+/gamma_macros.h/1.1.1.1/Fri Mar 18 13:06:25 2005//
+/gamma_regs.h/1.1.1.1/Fri Mar 18 13:06:25 2005//
+/gamma_render.c/1.1.1.1/Fri Mar 18 13:06:25 2005//
+/gamma_screen.c/1.1.1.1/Fri Mar 18 13:06:25 2005//
+/gamma_screen.h/1.1.1.1/Fri Mar 18 13:06:25 2005//
+/gamma_span.c/1.1.1.1/Fri Mar 18 13:06:25 2005//
+/gamma_state.c/1.1.1.1/Fri Mar 18 13:06:25 2005//
+/gamma_tex.c/1.1.1.1/Fri Mar 18 13:06:25 2005//
+/gamma_texmem.c/1.1.1.1/Fri Mar 18 13:06:25 2005//
+/gamma_texstate.c/1.1.1.1/Fri Mar 18 13:06:25 2005//
+/gamma_tris.c/1.1.1.1/Fri Mar 18 13:06:25 2005//
+/gamma_tris.h/1.1.1.1/Fri Mar 18 13:06:25 2005//
+/gamma_tritmp.h/1.1.1.1/Fri Mar 18 13:06:25 2005//
+/gamma_vb.c/1.1.1.1/Fri Mar 18 13:06:25 2005//
+/gamma_vb.h/1.1.1.1/Fri Mar 18 13:06:25 2005//
+/gamma_xmesa.c/1.1.1.1/Fri Mar 18 13:06:25 2005//
+D

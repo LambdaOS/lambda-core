@@ -1,0 +1,48 @@
+/Imakefile/1.1.1.4/Fri Mar 18 13:12:54 2005//
+/Imakefile.EXP/1.1.1.4/Sat Jan 19 15:12:55 2002//
+/XAA.HOWTO/1.1.1.4/Sat Jan 19 15:12:56 2002//
+/xaa.h/1.1.1.6/Fri Mar 18 13:12:55 2005//
+/xaaBitBlt.c/1.1.1.4/Fri Mar  5 14:29:27 2004//
+/xaaBitOrder.c/1.1.1.4/Fri Feb 28 13:20:23 2003//
+/xaaBitmap.c/1.1.1.3/Sat Jun  9 15:09:02 2001//
+/xaaCpyArea.c/1.3/Wed Mar 12 18:56:40 2008//
+/xaaCpyPlane.c/1.1.1.5/Fri Mar  5 14:29:27 2004//
+/xaaCpyWin.c/1.1.1.5/Fri Mar  5 14:29:27 2004//
+/xaaDashLine.c/1.1.1.5/Fri Feb 28 13:20:23 2003//
+/xaaFallback.c/1.1.1.3/Sat Jun  9 15:09:03 2001//
+/xaaFillArc.c/1.1.1.3/Sat Jun  9 15:09:03 2001//
+/xaaFillPoly.c/1.1.1.5/Fri Mar  5 14:29:28 2004//
+/xaaFillRect.c/1.1.1.5/Fri Mar  5 14:29:28 2004//
+/xaaGC.c/1.1.1.3/Sat Jun  9 15:09:04 2001//
+/xaaGCmisc.c/1.1.1.3/Sat Jun  9 15:09:04 2001//
+/xaaImage.c/1.1.1.4/Fri Mar  5 14:29:28 2004//
+/xaaInit.c/1.2/Sat Sep 17 17:10:56 2005//
+/xaaInitAccel.c/1.1.1.5/Fri Feb 28 13:20:23 2003//
+/xaaLine.c/1.1.1.5/Fri Feb 28 13:20:23 2003//
+/xaaLineMisc.c/1.1.1.3/Sat Jun  9 15:09:05 2001//
+/xaaNonTEGlyph.c/1.1.1.3/Sat Jun  9 15:09:05 2001//
+/xaaNonTEText.c/1.1.1.4/Fri Mar  5 14:29:28 2004//
+/xaaOffscreen.c/1.1.1.4/Sat Jan 19 15:13:00 2002//
+/xaaOverlay.c/1.1.1.7/Fri Mar 18 13:12:55 2005//
+/xaaOverlayDF.c/1.1.1.4/Fri Mar  5 14:29:28 2004//
+/xaaPCache.c/1.1.1.5/Fri Mar  5 14:29:28 2004//
+/xaaPaintWin.c/1.1.1.5/Fri Feb 28 13:20:23 2003//
+/xaaPict.c/1.1.1.6/Fri Mar  5 14:29:28 2004//
+/xaaROP.c/1.1.1.3/Sat Jun  9 15:09:07 2001//
+/xaaRect.c/1.1.1.3/Sat Jun  9 15:09:07 2001//
+/xaaSpans.c/1.1.1.4/Sat Jan 19 15:13:03 2002//
+/xaaStateChange.c/1.1.1.5/Fri Mar  5 14:29:28 2004//
+/xaaStipple.c/1.1.1.5/Fri Mar  5 14:29:28 2004//
+/xaaTEGlyph.c/1.1.1.4/Fri Mar 18 13:12:56 2005//
+/xaaTEGlyphBlt.S/1.1.1.3/Sat Jun  9 15:09:09 2001//
+/xaaTEText.c/1.1.1.3/Sat Jun  9 15:09:09 2001//
+/xaaTables.c/1.1.1.3/Sat Jun  9 15:09:09 2001//
+/xaaWideLine.c/1.1.1.5/Fri Mar  5 14:29:29 2004//
+/xaacexp.h/1.1.1.3/Sat Jun  9 15:09:09 2001//
+/xaalocal.h/1.1.1.6/Fri Mar  5 14:29:29 2004//
+/xaarop.h/1.1.1.4/Fri Mar 18 13:12:57 2005//
+/xaawrap.h/1.1.1.3/Sat Jun  9 15:09:10 2001//
+D/lsb_first////
+D/lsb_fixed////
+D/msb_first////
+D/msb_fixed////
