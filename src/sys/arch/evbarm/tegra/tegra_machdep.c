@@ -1,4 +1,4 @@
-/* $NetBSD: tegra_machdep.c,v 1.11 2015/05/09 12:08:30 jmcneill Exp $ */
+/* $NetBSD: tegra_machdep.c,v 1.14 2015/05/13 11:07:02 jmcneill Exp $ */
 
 /*-
  * Copyright (c) 2015 Jared D. McNeill <jmcneill@invisible.ca>
@@ -27,7 +27,7 @@
  */
 
 #include <sys/cdefs.h>
-__KERNEL_RCSID(0, "$NetBSD: tegra_machdep.c,v 1.11 2015/05/09 12:08:30 jmcneill Exp $");
+__KERNEL_RCSID(0, "$NetBSD: tegra_machdep.c,v 1.14 2015/05/13 11:07:02 jmcneill Exp $");
 
 #include "opt_tegra.h"
 #include "opt_machdep.h"
@@ -93,7 +93,7 @@ __KERNEL_RCSID(0, "$NetBSD: tegra_machdep.c,v 1.11 2015/05/09 12:08:30 jmcneill 
 #endif
 
 BootConfig bootconfig;
-static char bootargs[TEGRA_MAX_BOOT_STRING];
+char bootargs[TEGRA_MAX_BOOT_STRING] = "";
 char *boot_args = NULL;
 u_int uboot_args[4] = { 0 };	/* filled in by tegra_start.S (not in bss) */
 
@@ -303,14 +303,6 @@ initarm(void *arg)
 	arm32_kernel_vm_init(KERNEL_VM_BASE, ARM_VECTORS_HIGH, 0, devmap,
 	    mapallmem_p);
 
-	if (mapallmem_p) {
-		if (uboot_args[3] < ram_size) {
-			const char * const args = (const char *)
-			    (uboot_args[3] + KERNEL_BASE_VOFFSET);
-			strlcpy(bootargs, args, sizeof(bootargs));
-		}
-	}
-
 	DPRINTF("bootargs: %s\n", bootargs);
 
 	boot_args = bootargs;
@@ -381,6 +373,10 @@ tegra_device_register(device_t self, void *aux)
 		return;
 	}
 
+	if (device_is_a(self, "cpu") && device_unit(self) == 0) {
+		tegra_cpuinit();
+	}
+
 #ifdef BOARD_JETSONTK1
 	if (device_is_a(self, "sdhc")
 	    && device_is_a(device_parent(self), "tegraio")) {
@@ -399,7 +395,9 @@ tegra_device_register(device_t self, void *aux)
 		struct tegraio_attach_args * const tio = aux;
 		const struct tegra_locators * const loc = &tio->tio_loc;
 
-		if (loc->loc_port == 2) {
+		if (loc->loc_port == 0) {
+			prop_dictionary_set_cstring(dict, "vbus-gpio", "N4");
+		} else if (loc->loc_port == 2) {
 			prop_dictionary_set_cstring(dict, "vbus-gpio", "N5");
 		}
 	}

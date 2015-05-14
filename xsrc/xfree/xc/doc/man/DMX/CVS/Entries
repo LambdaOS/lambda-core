@@ -1,0 +1,19 @@
+/DMX.man/1.1.1.1/Fri Mar 18 13:05:17 2005//
+/DMXAddInput.man/1.1.1.1/Fri Mar 18 13:05:17 2005//
+/DMXAddScreen.man/1.1.1.1/Fri Mar 18 13:05:17 2005//
+/DMXChangeDesktopAttributes.man/1.1.1.1/Fri Mar 18 13:05:17 2005//
+/DMXChangeScreensAttributes.man/1.1.1.1/Fri Mar 18 13:05:17 2005//
+/DMXForceWindowCreation.man/1.1.1.1/Fri Mar 18 13:05:17 2005//
+/DMXGetDesktopAttributes.man/1.1.1.1/Fri Mar 18 13:05:17 2005//
+/DMXGetInputAttributes.man/1.1.1.1/Fri Mar 18 13:05:17 2005//
+/DMXGetInputCount.man/1.1.1.1/Fri Mar 18 13:05:17 2005//
+/DMXGetScreenAttributes.man/1.1.1.1/Fri Mar 18 13:05:17 2005//
+/DMXGetScreenCount.man/1.1.1.1/Fri Mar 18 13:05:17 2005//
+/DMXGetWindowAttributes.man/1.1.1.1/Fri Mar 18 13:05:17 2005//
+/DMXQueryExtension.man/1.1.1.1/Fri Mar 18 13:05:17 2005//
+/DMXQueryVersion.man/1.1.1.1/Fri Mar 18 13:05:17 2005//
+/DMXRemoveInput.man/1.1.1.1/Fri Mar 18 13:05:17 2005//
+/DMXRemoveScreen.man/1.1.1.1/Fri Mar 18 13:05:17 2005//
+/DMXSync.man/1.1.1.1/Fri Mar 18 13:05:17 2005//
+/Imakefile/1.1.1.1/Fri Mar 18 13:05:17 2005//
+D

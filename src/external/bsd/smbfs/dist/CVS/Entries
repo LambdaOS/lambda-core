@@ -1,0 +1,14 @@
+/COPYRIGHT/1.1.1.1/Wed Dec 25 20:33:13 2013//
+/CREDITS/1.1.1.1/Wed Dec 25 20:33:13 2013//
+/HISTORY/1.1.1.1/Wed Dec 25 20:33:13 2013//
+/INSTALL/1.1.1.1/Wed Dec 25 20:33:13 2013//
+/Makefile/1.1.1.1/Wed Dec 25 20:33:13 2013//
+/Makefile.inc/1.1.1.1/Wed Dec 25 20:33:13 2013//
+/README/1.1.1.1/Wed Dec 25 20:33:13 2013//
+/config.mk.in/1.1.1.1/Wed Dec 25 20:33:13 2013//
+/configure/1.1.1.1/Wed Dec 25 20:33:13 2013//
+D/examples////
+D/include////
+D/lib////
+D/mount_smbfs////
+D/smbutil////

@@ -1,0 +1,24 @@
+/Makefile.am/1.1.1.1/Sun Sep 21 02:09:24 2008//
+/Makefile.in/1.1.1.1/Sun Sep 21 02:09:24 2008//
+/nv_const.h/1.1.1.1/Sun Sep 21 02:09:24 2008//
+/nv_cursor.c/1.1.1.1/Sun Sep 21 02:09:24 2008//
+/nv_dac.c/1.1.1.1/Sun Sep 21 02:09:24 2008//
+/nv_dga.c/1.1.1.1/Sun Sep 21 02:09:24 2008//
+/nv_driver.c/1.3/Wed Nov 24 02:54:09 2010//
+/nv_include.h/1.1.1.1/Sun Sep 21 02:09:25 2008//
+/nv_local.h/1.1.1.1/Sun Sep 21 02:09:25 2008//
+/nv_proto.h/1.1.1.1/Sun Sep 21 02:09:26 2008//
+/nv_setup.c/1.1.1.1/Sun Sep 21 02:09:26 2008//
+/nv_shadow.c/1.1.1.1/Sun Sep 21 02:09:26 2008//
+/nv_type.h/1.1.1.1/Sun Sep 21 02:09:26 2008//
+/nv_video.c/1.1.1.1/Sun Sep 21 02:09:26 2008//
+/nv_xaa.c/1.1.1.1/Sun Sep 21 02:09:26 2008//
+/nvdrv.man/1.1.1.1/Sun Sep 21 02:09:26 2008//
+/nvreg.h/1.1.1.1/Sun Sep 21 02:09:26 2008//
+/nvvga.h/1.1.1.1/Sun Sep 21 02:09:26 2008//
+/nvxbox.man/1.1.1.1/Sun Sep 21 02:09:26 2008//
+/nvxboxdrv.man/1.1.1.1/Sun Sep 21 02:09:24 2008//
+/riva_hw.c/1.1.1.1/Sun Sep 21 02:09:27 2008//
+/riva_hw.h/1.1.1.1/Sun Sep 21 02:09:27 2008//
+/riva_tbl.h/1.1.1.1/Sun Sep 21 02:09:27 2008//
+D

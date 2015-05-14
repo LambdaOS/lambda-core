@@ -1,0 +1,10 @@
+/bad-nsec3-padded.db/1.1.1.1/Wed Dec 10 02:25:16 2014//
+/bad-nsec3owner-padded.db/1.1.1.1/Wed Dec 10 02:25:16 2014//
+/bad1.db/1.1.1.1/Sat Jul 27 15:22:51 2013//
+/bad2.db/1.1.1.1/Tue Jul  8 04:46:15 2014//
+/good-nsec3-nopadhash.db/1.1.1.1/Wed Dec 10 02:25:16 2014//
+/good1.db/1.1.1.2/Mon Jun  4 17:54:22 2012//
+/spf.db/1.1.1.1/Sat Jul 27 15:22:51 2013//
+/test1.db/1.1.1.1/Fri Feb 28 17:40:07 2014//
+/test2.db/1.1.1.1/Fri Feb 28 17:40:07 2014//
+D

@@ -1,0 +1,11 @@
+/bool.pass.cpp/1.1.1.2/Thu Nov 28 13:45:10 2013//
+/dereference.pass.cpp/1.1.1.2/Thu Nov 28 13:45:10 2013//
+/dereference_const.pass.cpp/1.1.1.2/Thu Nov 28 13:45:10 2013//
+/op_arrow.pass.cpp/1.1.1.2/Thu Nov 28 13:45:10 2013//
+/op_arrow_const.pass.cpp/1.1.1.2/Thu Nov 28 13:45:10 2013//
+/value.pass.cpp/1.1.1.2/Thu Nov 28 13:45:10 2013//
+/value_const.fail.cpp/1.1.1.2/Thu Nov 28 13:45:10 2013//
+/value_const.pass.cpp/1.1.1.2/Thu Nov 28 13:45:10 2013//
+/value_or.pass.cpp/1.1.1.2/Thu Nov 28 13:45:10 2013//
+/value_or_const.pass.cpp/1.1.1.2/Thu Nov 28 13:45:10 2013//
+D

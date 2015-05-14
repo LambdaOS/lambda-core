@@ -1,0 +1,19 @@
+/Imakefile/1.2/Fri Feb  4 18:37:26 2005//
+/TODO/1.1/Sun Jan 18 05:21:41 2004//
+/atKeynames.h/1.1/Sun Jan 18 05:21:41 2004//
+/dec.h/1.2/Tue May 24 22:16:45 2011//
+/decColormap.c/1.1/Sun Jan 18 05:21:41 2004//
+/decCursor.c/1.6/Tue May 24 21:27:00 2011//
+/decFbs.c/1.2/Fri Dec  9 05:44:50 2005//
+/decInit.c/1.3/Tue May 24 21:21:55 2011//
+/decIo.c/1.2/Tue May 24 21:22:28 2011//
+/decKbd.c/1.3/Tue May 24 21:23:52 2011//
+/decKeyMap.c/1.1/Sun Jan 18 05:21:41 2004//
+/decMouse.c/1.4/Tue May 24 21:23:52 2011//
+/lk201Keymap.h/1.1/Sun Jan 18 05:21:41 2004//
+/xf86Keymap.h/1.1/Sun Jan 18 05:21:41 2004//
+D/cfb////
+D/mfb////
+D/px////
+D/sfb////
+D/tga////

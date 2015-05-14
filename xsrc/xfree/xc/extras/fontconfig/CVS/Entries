@@ -1,0 +1,26 @@
+/AUTHORS/1.1.1.1/Fri Mar  5 14:26:09 2004//
+/COPYING/1.1.1.1/Fri Mar  5 14:26:09 2004//
+/ChangeLog/1.1.1.1/Fri Mar  5 14:26:09 2004//
+/INSTALL/1.1.1.1/Fri Mar  5 14:26:09 2004//
+/Imakefile/1.1.1.1/Fri Mar  5 14:26:09 2004//
+/Makefile.in/1.1.1.1/Fri Mar  5 14:26:09 2004//
+/NEWS/1.1.1.1/Fri Mar  5 14:26:09 2004//
+/README/1.1.1.2/Fri Mar 18 13:07:05 2005//
+/config.h.in/1.1.1.1/Fri Mar  5 14:26:09 2004//
+/configure/1.1.1.1/Fri Mar  5 14:26:09 2004//
+/configure.in/1.1.1.1/Fri Mar  5 14:26:09 2004//
+/cvscompile.sh/1.1.1.1/Fri Mar  5 14:26:09 2004//
+/findfonts/1.1.1.1/Fri Mar  5 14:26:09 2004//
+/fontconfig-config.in/1.1.1.1/Fri Mar  5 14:26:09 2004//
+/fontconfig.pc.in/1.1.1.1/Fri Mar  5 14:26:09 2004//
+/fonts.conf.in/1.1.1.1/Fri Mar  5 14:26:09 2004//
+/fonts.dtd/1.1.1.1/Fri Mar  5 14:26:09 2004//
+/local.def/1.1.1.1/Fri Mar  5 14:26:09 2004//
+/setfontdirs/1.1.1.1/Fri Mar  5 14:26:09 2004//
+D/config////
+D/doc////
+D/fc-cache////
+D/fc-lang////
+D/fc-list////
+D/fontconfig////
+D/src////

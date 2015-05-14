@@ -1,0 +1,33 @@
+/README/1.1.1.1/Mon Jun 20 05:54:40 2011//
+/addlsh1_n.asm/1.1.1.1/Mon Jun 20 05:54:40 2011//
+/addmul_1.asm/1.1.1.1/Mon Jun 20 05:54:40 2011//
+/aix.m4/1.1.1.1/Mon Jun 20 05:54:40 2011//
+/aors_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/bdiv_dbm1c.asm/1.1.1.1/Mon Jun 20 05:54:40 2011//
+/darwin.m4/1.1.1.1/Mon Jun 20 05:54:40 2011//
+/diveby3.asm/1.1.1.1/Mon Jun 20 05:54:40 2011//
+/divrem_2.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/eabi.m4/1.1.1.1/Mon Jun 20 05:54:40 2011//
+/elf.m4/1.3/Mon Dec  2 13:16:49 2013//
+/gmp-mparam.h/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/invert_limb.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
+/lshift.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/lshiftc.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
+/mod_34lsub1.asm/1.1.1.1/Mon Jun 20 05:54:40 2011//
+/mode1o.asm/1.1.1.1/Mon Jun 20 05:54:40 2011//
+/mul_1.asm/1.1.1.1/Mon Jun 20 05:54:40 2011//
+/powerpc-defs.m4/1.1.1.1/Mon Jun 20 05:54:40 2011//
+/rshift.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
+/sqr_diagonal.asm/1.1.1.1/Mon Jun 20 05:54:40 2011//
+/sublsh1_n.asm/1.1.1.1/Mon Jun 20 05:54:40 2011//
+/submul_1.asm/1.1.1.1/Mon Jun 20 05:54:40 2011//
+/tabselect.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
+/umul.asm/1.1.1.1/Mon Jun 20 05:54:40 2011//
+D/750////
+D/p3////
+D/p3-p7////
+D/p4////
+D/p5////
+D/p6////
+D/p7////
+D/vmx////

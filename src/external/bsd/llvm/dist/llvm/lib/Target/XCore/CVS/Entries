@@ -1,0 +1,40 @@
+/CMakeLists.txt/1.1.1.3/Wed Jan 15 21:24:05 2014//
+/LLVMBuild.txt/1.1.1.2/Sun Jan  5 16:14:54 2014//
+/Makefile/1.1.1.1/Thu Nov 28 14:18:20 2013//
+/README.txt/1.1.1.1/Thu Nov 28 14:18:20 2013//
+/XCore.h/1.1.1.3/Thu Jan 29 19:54:28 2015//
+/XCore.td/1.1.1.2/Sun Jan  5 16:14:54 2014//
+/XCoreAsmPrinter.cpp/1.1.1.7/Sun Aug 10 17:05:00 2014//
+/XCoreCallingConv.td/1.1.1.2/Tue Mar  4 20:52:49 2014//
+/XCoreFrameLowering.cpp/1.1.1.7/Thu Jan 29 19:54:28 2015//
+/XCoreFrameLowering.h/1.1.1.4/Thu Jan 29 19:54:28 2015//
+/XCoreFrameToArgsOffsetElim.cpp/1.1.1.3/Sun Aug 10 17:05:00 2014//
+/XCoreISelDAGToDAG.cpp/1.1.1.2/Fri May 30 18:11:16 2014//
+/XCoreISelLowering.cpp/1.1.1.8/Thu Jan 29 19:54:28 2015//
+/XCoreISelLowering.h/1.1.1.7/Thu Jan 29 19:54:28 2015//
+/XCoreInstrFormats.td/1.1.1.1/Thu Nov 28 14:18:20 2013//
+/XCoreInstrInfo.cpp/1.1.1.6/Thu Jan 29 19:54:28 2015//
+/XCoreInstrInfo.h/1.1.1.4/Thu Jan 29 19:54:28 2015//
+/XCoreInstrInfo.td/1.1.1.7/Thu Jan 29 19:54:28 2015//
+/XCoreLowerThreadLocal.cpp/1.1.1.4/Fri May 30 18:11:16 2014//
+/XCoreMCInstLower.cpp/1.1.1.2/Wed Jan 15 21:24:05 2014//
+/XCoreMCInstLower.h/1.1.1.2/Thu Jan 29 19:54:28 2015//
+/XCoreMachineFunctionInfo.cpp/1.1.1.4/Tue Mar  4 20:52:48 2014//
+/XCoreMachineFunctionInfo.h/1.1.1.6/Thu Jan 29 19:54:28 2015//
+/XCoreRegisterInfo.cpp/1.1.1.6/Sun Aug 10 17:05:00 2014//
+/XCoreRegisterInfo.h/1.1.1.4/Thu Jan 29 19:54:28 2015//
+/XCoreRegisterInfo.td/1.1.1.1/Thu Nov 28 14:18:20 2013//
+/XCoreSelectionDAGInfo.cpp/1.1.1.4/Sun Aug 10 17:05:00 2014//
+/XCoreSelectionDAGInfo.h/1.1.1.5/Thu Jan 29 19:54:28 2015//
+/XCoreSubtarget.cpp/1.1.1.3/Sun Aug 10 17:05:00 2014//
+/XCoreSubtarget.h/1.1.1.3/Thu Jan 29 19:54:28 2015//
+/XCoreTargetMachine.cpp/1.1.1.6/Thu Jan 29 19:54:28 2015//
+/XCoreTargetMachine.h/1.1.1.4/Thu Jan 29 19:54:28 2015//
+/XCoreTargetObjectFile.cpp/1.1.1.5/Sun Aug 10 17:05:00 2014//
+/XCoreTargetObjectFile.h/1.1.1.6/Thu Jan 29 19:54:28 2015//
+/XCoreTargetStreamer.h/1.1.1.2/Thu Jan 29 19:54:28 2015//
+/XCoreTargetTransformInfo.cpp/1.1.1.5/Thu Jan 29 19:54:28 2015//
+D/Disassembler////
+D/InstPrinter////
+D/MCTargetDesc////
+D/TargetInfo////

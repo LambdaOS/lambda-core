@@ -1,0 +1,54 @@
+/Makefile.am/1.1.1.4/Tue Aug  2 06:56:48 2011//
+/Makefile.in/1.1.1.6/Mon Jun  3 07:34:20 2013//
+/dmx-config.h/1.1.1.3/Tue Nov 23 05:21:10 2010//
+/dmx.c/1.1.1.4/Tue Aug  2 06:56:48 2011//
+/dmx.h/1.1.1.3/Tue Nov 23 05:21:10 2010//
+/dmx_glxvisuals.c/1.1.1.3/Tue Nov 23 05:21:10 2010//
+/dmx_glxvisuals.h/1.1.1.2/Thu Jun 11 01:52:59 2009//
+/dmxcb.c/1.1.1.3/Tue Nov 23 05:21:10 2010//
+/dmxcb.h/1.1.1.1/Thu Jul 31 19:50:21 2008//
+/dmxclient.h/1.1.1.3/Tue Nov 23 05:21:10 2010//
+/dmxcmap.c/1.1.1.3/Tue Nov 23 05:21:10 2010//
+/dmxcmap.h/1.1.1.3/Tue Nov 23 05:21:10 2010//
+/dmxcursor.c/1.1.1.3/Tue Nov 23 05:21:10 2010//
+/dmxcursor.h/1.1.1.2/Thu Jun 11 01:52:59 2009//
+/dmxdpms.c/1.1.1.2/Thu Jun 11 01:52:59 2009//
+/dmxdpms.h/1.1.1.1/Thu Jul 31 19:50:21 2008//
+/dmxextension.c/1.1.1.4/Tue Aug  2 06:56:48 2011//
+/dmxextension.h/1.1.1.2/Tue Nov 23 05:21:10 2010//
+/dmxfont.c/1.1.1.3/Tue Nov 23 05:21:10 2010//
+/dmxfont.h/1.1.1.1/Thu Jul 31 19:50:21 2008//
+/dmxgc.c/1.1.1.4/Tue Aug  2 06:56:48 2011//
+/dmxgc.h/1.1.1.3/Tue Nov 23 05:21:10 2010//
+/dmxgcops.c/1.1.1.3/Tue Aug  2 06:56:48 2011//
+/dmxgcops.h/1.1.1.1/Thu Jul 31 19:50:21 2008//
+/dmxinit.c/1.1.1.4/Tue Aug  2 06:56:48 2011//
+/dmxinit.h/1.1.1.1/Thu Jul 31 19:50:22 2008//
+/dmxinput.c/1.1.1.2/Tue Nov 23 05:21:10 2010//
+/dmxinput.h/1.1.1.3/Tue Nov 23 05:21:10 2010//
+/dmxlog.c/1.1.1.2/Thu Jun 11 01:52:59 2009//
+/dmxlog.h/1.1.1.2/Thu Jun 11 01:52:59 2009//
+/dmxpict.c/1.1.1.4/Tue Aug  2 06:56:48 2011//
+/dmxpict.h/1.1.1.3/Tue Nov 23 05:21:10 2010//
+/dmxpixmap.c/1.1.1.3/Tue Nov 23 05:21:10 2010//
+/dmxpixmap.h/1.1.1.3/Tue Nov 23 05:21:10 2010//
+/dmxprop.c/1.1.1.2/Tue Nov 23 05:21:11 2010//
+/dmxprop.h/1.1.1.1/Thu Jul 31 19:50:22 2008//
+/dmxscrinit.c/1.1.1.4/Tue Aug  2 06:56:48 2011//
+/dmxscrinit.h/1.1.1.3/Tue Nov 23 05:21:11 2010//
+/dmxshadow.c/1.1.1.2/Tue Nov 23 05:21:11 2010//
+/dmxshadow.h/1.1.1.1/Thu Jul 31 19:50:22 2008//
+/dmxstat.c/1.1.1.3/Tue Nov 23 05:21:11 2010//
+/dmxstat.h/1.1.1.1/Thu Jul 31 19:50:22 2008//
+/dmxsync.c/1.1.1.2/Tue Nov 23 05:21:11 2010//
+/dmxsync.h/1.1.1.1/Thu Jul 31 19:50:22 2008//
+/dmxvisual.c/1.1.1.1/Thu Jul 31 19:50:22 2008//
+/dmxvisual.h/1.1.1.1/Thu Jul 31 19:50:22 2008//
+/dmxwindow.c/1.1.1.4/Tue Aug  2 06:56:48 2011//
+/dmxwindow.h/1.1.1.3/Tue Nov 23 05:21:11 2010//
+D/config////
+D/doc////
+D/examples////
+D/glxProxy////
+D/input////
+D/man////

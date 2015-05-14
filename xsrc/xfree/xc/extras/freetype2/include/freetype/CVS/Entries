@@ -1,0 +1,39 @@
+/freetype.h/1.1.1.6/Fri Mar 18 13:07:26 2005//
+/ftbbox.h/1.1.1.4/Fri Mar 18 13:07:26 2005//
+/ftbdf.h/1.1.1.3/Fri Mar 18 13:07:26 2005//
+/ftcache.h/1.1.1.5/Fri Mar 18 13:07:26 2005//
+/ftchapters.h/1.1.1.3/Fri Mar  5 14:26:22 2004//
+/fterrdef.h/1.2/Fri Jun  2 16:16:25 2006//
+/fterrors.h/1.1.1.4/Fri Feb 28 13:19:14 2003//
+/ftglyph.h/1.1.1.5/Fri Mar 18 13:07:26 2005//
+/ftgzip.h/1.1.1.2/Fri Mar 18 13:07:26 2005//
+/ftimage.h/1.1.1.6/Fri Mar 18 13:07:27 2005//
+/ftincrem.h/1.1.1.2/Fri Mar 18 13:07:27 2005//
+/ftlist.h/1.1.1.4/Fri Mar 18 13:07:27 2005//
+/ftlzw.h/1.1.1.1/Fri Mar 18 13:07:27 2005//
+/ftmac.h/1.1.1.4/Fri Mar 18 13:07:27 2005//
+/ftmm.h/1.1.1.4/Fri Mar 18 13:07:27 2005//
+/ftmodapi.h/1.1.1.1/Fri Mar 18 13:07:27 2005//
+/ftmoderr.h/1.1.1.3/Fri Mar 18 13:07:27 2005//
+/ftoutln.h/1.1.1.6/Fri Mar 18 13:07:27 2005//
+/ftpfr.h/1.1.1.2/Fri Mar 18 13:07:27 2005//
+/ftrender.h/1.1.1.4/Fri Mar  5 14:26:23 2004//
+/ftsizes.h/1.1.1.3/Fri Mar 18 13:07:27 2005//
+/ftsnames.h/1.1.1.4/Fri Mar 18 13:07:27 2005//
+/ftstroke.h/1.1.1.1/Fri Mar 18 13:07:27 2005//
+/ftsynth.h/1.1.1.5/Fri Mar 18 13:07:27 2005//
+/ftsysio.h/1.1.1.2/Fri Mar  5 14:26:23 2004//
+/ftsysmem.h/1.1.1.2/Fri Mar  5 14:26:23 2004//
+/ftsystem.h/1.1.1.5/Fri Mar  5 14:26:23 2004//
+/fttrigon.h/1.1.1.3/Fri Mar 18 13:07:27 2005//
+/fttypes.h/1.1.1.4/Fri Mar  5 14:26:23 2004//
+/ftwinfnt.h/1.1.1.2/Fri Mar 18 13:07:27 2005//
+/ftxf86.h/1.1.1.2/Fri Mar 18 13:07:27 2005//
+/t1tables.h/1.1.1.6/Fri Mar 18 13:07:27 2005//
+/ttnameid.h/1.1.1.5/Fri Mar 18 13:07:28 2005//
+/tttables.h/1.1.1.5/Fri Mar 18 13:07:28 2005//
+/tttags.h/1.1.1.4/Fri Mar 18 13:07:28 2005//
+/ttunpat.h/1.1.1.1/Fri Mar 18 13:07:28 2005//
+D/cache////
+D/config////
+D/internal////

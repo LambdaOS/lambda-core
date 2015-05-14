@@ -1,4 +1,4 @@
-#	$NetBSD: Makefile,v 1.150 2015/05/03 02:54:07 pgoyette Exp $
+#	$NetBSD: Makefile,v 1.153 2015/05/13 02:15:34 pgoyette Exp $
 
 .include <bsd.own.mk>
 
@@ -20,6 +20,7 @@ SUBDIR+=	crypto
 SUBDIR+=	coda
 SUBDIR+=	coda5
 SUBDIR+=	compat
+SUBDIR+=	compat_sysv
 SUBDIR+=	compat_ossaudio
 SUBDIR+=	coredump
 SUBDIR+=	dbcool
@@ -95,6 +96,7 @@ SUBDIR+=	sysmon_power
 SUBDIR+=	sysmon_taskq
 SUBDIR+=	sysmon_wdog
 SUBDIR+=	sysvbfs
+SUBDIR+=	sysv_ipc
 SUBDIR+=	suser
 SUBDIR+=	swcrypto
 SUBDIR+=	swsensor
@@ -201,6 +203,10 @@ SUBDIR+=	wmidell
 SUBDIR+=	wmieeepc
 SUBDIR+=	wmihp
 SUBDIR+=	wmimsi
+.endif
+
+.if ${MACHINE_CPU} == "arm" || !empty(MACHINE_ARCH:Mmips64*)
+SUBDIR+=	compat_netbsd32
 .endif
 
 .if ${MACHINE_ARCH} == "x86_64"

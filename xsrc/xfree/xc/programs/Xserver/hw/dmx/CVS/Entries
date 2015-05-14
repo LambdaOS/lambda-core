@@ -1,0 +1,51 @@
+/Imakefile/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/Xdmx.man/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmx.h/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmx_glxvisuals.c/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmx_glxvisuals.h/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxcb.c/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxcb.h/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxclient.h/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxcmap.c/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxcmap.h/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxcursor.c/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxcursor.h/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxdpms.c/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxdpms.h/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxextension.c/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxextension.h/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxfont.c/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxfont.h/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxgc.c/1.2/Sun May 14 07:10:46 2006//
+/dmxgc.h/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxgcops.c/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxgcops.h/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxinit.c/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxinit.h/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxinput.c/1.1.1.1/Fri Mar 18 13:10:55 2005//
+/dmxinput.h/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxlog.c/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxlog.h/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxpict.c/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxpict.h/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxpixmap.c/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxpixmap.h/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxprop.c/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxprop.h/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxscrinit.c/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxscrinit.h/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxshadow.c/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxshadow.h/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxstat.c/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxstat.h/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxsync.c/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxsync.h/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxvisual.c/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxvisual.h/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxwindow.c/1.1.1.1/Fri Mar 18 13:10:56 2005//
+/dmxwindow.h/1.1.1.1/Fri Mar 18 13:10:56 2005//
+D/config////
+D/doc////
+D/examples////
+D/glxProxy////
+D/input////
