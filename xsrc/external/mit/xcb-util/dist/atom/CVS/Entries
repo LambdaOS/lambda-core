@@ -1,9 +1,9 @@
-/Makefile.am/1.1.1.1/Sat Jul 17 20:28:32 2010//
-/Makefile.in/1.1.1.1/Sat Jul 17 20:28:32 2010//
-/atomlist.m4/1.1.1.1/Sat Jul 17 20:28:32 2010//
-/atoms.c/1.2/Thu Nov  8 08:51:07 2012//
-/atoms.gperf.m4/1.1.1.1/Sat Jul 17 20:28:32 2010//
-/xcb-atom.pc.in/1.1.1.1/Sat Jul 17 20:28:32 2010//
-/xcb_atom.h/1.1.1.1/Sat Jul 17 20:28:32 2010//
-/xcb_atom.h.m4/1.1.1.1/Sat Jul 17 20:28:32 2010//
+/Makefile.am/1.1.1.1/Wed May 13 23:34:52 2015//
+/Makefile.in/1.1.1.1/Wed May 13 23:34:52 2015//
+/atomlist.m4/1.1.1.1/Wed May 13 23:34:52 2015//
+/atoms.c/1.2/Wed May 13 23:34:52 2015//
+/atoms.gperf.m4/1.1.1.1/Wed May 13 23:34:52 2015//
+/xcb-atom.pc.in/1.1.1.1/Wed May 13 23:34:52 2015//
+/xcb_atom.h/1.1.1.1/Wed May 13 23:34:52 2015//
+/xcb_atom.h.m4/1.1.1.1/Wed May 13 23:34:52 2015//
 D

@@ -1,18 +1,3 @@
-/CHANGELOG/1.7/Fri Mar 18 14:55:13 2005//
-/CHANGELOG.ND/1.1.1.3/Sat Jun  9 15:03:30 2001//
-/CHANGELOG.R5/1.1.1.1/Mon Jan  1 12:45:41 2001//
-/DebuggingHints/1.1.1.1/Mon Jan  1 12:45:41 2001//
-/Domain.note/1.1.1.2/Fri Mar 18 13:11:19 2005//
-/Imakefile/1.1.1.7/Fri Mar 18 13:11:19 2005//
-/Options/1.1.1.4/Fri Mar  5 14:28:25 2004//
-/RAC.Notes/1.1.1.1/Mon Jan  1 12:45:42 2001//
-/Registry/1.1.1.4/Fri Feb 28 13:20:03 2003//
-/XF86Conf.cpp/1.1.1.6/Fri Mar  5 14:28:25 2004//
-/XF86Config.man/1.1.1.5/Fri Mar 18 13:11:19 2005//
-/XF98Conf.cpp/1.1.1.6/Fri Mar 18 13:11:19 2005//
-/XFree86.man/1.1.1.5/Fri Mar 18 13:11:20 2005//
-/xf86Date.h/1.1.1.4/Fri Mar 18 13:11:20 2005//
-/xf86Version.h/1.7/Fri Mar 18 14:55:14 2005//
 D/common////
 D/ddc////
 D/doc////
@@ -43,3 +28,18 @@ D/xf86config////
 D/xf8_16bpp////
 D/xf8_32bpp////
 D/xf8_32wid////
+/CHANGELOG/1.7/Wed May 13 23:35:03 2015//
+/CHANGELOG.ND/1.1.1.3/Wed May 13 23:35:03 2015//
+/CHANGELOG.R5/1.1.1.1/Wed May 13 23:35:03 2015//
+/DebuggingHints/1.1.1.1/Wed May 13 23:35:03 2015//
+/Domain.note/1.1.1.2/Wed May 13 23:35:03 2015//
+/Imakefile/1.1.1.7/Wed May 13 23:35:03 2015//
+/Options/1.1.1.4/Wed May 13 23:35:03 2015//
+/RAC.Notes/1.1.1.1/Wed May 13 23:35:03 2015//
+/Registry/1.1.1.4/Wed May 13 23:35:03 2015//
+/XF86Conf.cpp/1.1.1.6/Wed May 13 23:35:03 2015//
+/XF86Config.man/1.1.1.5/Wed May 13 23:35:03 2015//
+/XF98Conf.cpp/1.1.1.6/Wed May 13 23:35:03 2015//
+/XFree86.man/1.1.1.5/Wed May 13 23:35:03 2015//
+/xf86Date.h/1.1.1.4/Wed May 13 23:35:03 2015//
+/xf86Version.h/1.7/Wed May 13 23:35:03 2015//

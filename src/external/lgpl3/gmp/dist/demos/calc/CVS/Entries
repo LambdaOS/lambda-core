@@ -1,12 +1,12 @@
-/Makefile.am/1.1.1.1/Mon Jun 20 05:54:54 2011//
-/Makefile.in/1.1.1.2/Fri Nov 29 07:49:48 2013//
-/README/1.1.1.1/Mon Jun 20 05:54:54 2011//
-/calc-common.h/1.1.1.1/Mon Jun 20 05:54:54 2011//
-/calc-config-h.in/1.1.1.1/Mon Jun 20 05:54:54 2011//
-/calc.c/1.1.1.2/Fri Nov 29 07:49:48 2013//
-/calc.h/1.1.1.2/Fri Nov 29 07:49:48 2013//
-/calc.y/1.1.1.1/Mon Jun 20 05:54:54 2011//
-/calclex.c/1.1.1.2/Fri Nov 29 07:49:48 2013//
-/calclex.l/1.1.1.1/Mon Jun 20 05:54:54 2011//
-/calcread.c/1.1.1.1/Mon Jun 20 05:54:54 2011//
+/Makefile.am/1.1.1.1/Wed May 13 22:26:50 2015//
+/Makefile.in/1.1.1.2/Wed May 13 22:26:50 2015//
+/README/1.1.1.1/Wed May 13 22:26:50 2015//
+/calc-common.h/1.1.1.1/Wed May 13 22:26:50 2015//
+/calc-config-h.in/1.1.1.1/Wed May 13 22:26:50 2015//
+/calc.c/1.1.1.2/Wed May 13 22:26:50 2015//
+/calc.h/1.1.1.2/Wed May 13 22:26:50 2015//
+/calc.y/1.1.1.1/Wed May 13 22:26:50 2015//
+/calclex.c/1.1.1.2/Wed May 13 22:26:50 2015//
+/calclex.l/1.1.1.1/Wed May 13 22:26:50 2015//
+/calcread.c/1.1.1.1/Wed May 13 22:26:50 2015//
 D

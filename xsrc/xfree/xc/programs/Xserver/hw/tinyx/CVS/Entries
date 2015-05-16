@@ -1,28 +1,3 @@
-/Imakefile/1.1.1.1/Fri Mar 18 13:11:09 2005//
-/TinyX.man/1.1.1.1/Fri Mar 18 13:11:09 2005//
-/TinyX.tmpl/1.1.1.1/Fri Mar 18 13:11:09 2005//
-/tinyx.c/1.1.1.1/Fri Mar 18 13:11:09 2005//
-/tinyx.h/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txaa.c/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txasync.c/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txcmap.c/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txcolor.c/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txcurscol.c/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txinfo.c/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txinput.c/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txkeymap.c/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txkeymap.h/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txloadmap.c/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txmap.c/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txmode.c/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txnoop.c/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txpict.c/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txshadow.c/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txtest.c/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txxv.c/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/txxv.h/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/vga.c/1.1.1.1/Fri Mar 18 13:11:10 2005//
-/vga.h/1.1.1.1/Fri Mar 18 13:11:10 2005//
 D/chips////
 D/fbdev////
 D/i810////
@@ -39,3 +14,28 @@ D/trio////
 D/ts300////
 D/vesa////
 D/vxworks////
+/Imakefile/1.1.1.1/Wed May 13 23:35:01 2015//
+/TinyX.man/1.1.1.1/Wed May 13 23:35:01 2015//
+/TinyX.tmpl/1.1.1.1/Wed May 13 23:35:01 2015//
+/tinyx.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/tinyx.h/1.1.1.1/Wed May 13 23:35:01 2015//
+/txaa.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/txasync.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/txcmap.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/txcolor.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/txcurscol.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/txinfo.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/txinput.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/txkeymap.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/txkeymap.h/1.1.1.1/Wed May 13 23:35:01 2015//
+/txloadmap.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/txmap.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/txmode.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/txnoop.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/txpict.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/txshadow.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/txtest.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/txxv.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/txxv.h/1.1.1.1/Wed May 13 23:35:01 2015//
+/vga.c/1.1.1.1/Wed May 13 23:35:01 2015//
+/vga.h/1.1.1.1/Wed May 13 23:35:01 2015//

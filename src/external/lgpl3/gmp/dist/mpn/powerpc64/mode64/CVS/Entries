@@ -1,26 +1,26 @@
-/aors_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
-/aorscnd_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
-/aorslsh1_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
-/aorslsh2_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
-/aorslshC_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
-/aorsmul_1.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
-/bdiv_dbm1c.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
-/dive_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
-/divrem_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
-/divrem_2.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
-/gmp-mparam.h/1.1.1.1/Mon Jun 20 05:54:40 2011//
-/invert_limb.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
-/mod_1_1.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
-/mod_1_4.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
-/mod_34lsub1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
-/mode1o.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
-/mul_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
-/mul_basecase.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
-/rsh1add_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
-/rsh1sub_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//
-/sqr_basecase.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//
 D/p3////
 D/p4////
 D/p5////
 D/p6////
 D/p7////
+/aors_n.asm/1.1.1.2/Wed May 13 22:26:54 2015//
+/aorscnd_n.asm/1.1.1.1/Wed May 13 22:26:54 2015//
+/aorslsh1_n.asm/1.1.1.1/Wed May 13 22:26:54 2015//
+/aorslsh2_n.asm/1.1.1.1/Wed May 13 22:26:54 2015//
+/aorslshC_n.asm/1.1.1.1/Wed May 13 22:26:54 2015//
+/aorsmul_1.asm/1.1.1.1/Wed May 13 22:26:54 2015//
+/bdiv_dbm1c.asm/1.1.1.2/Wed May 13 22:26:54 2015//
+/dive_1.asm/1.1.1.2/Wed May 13 22:26:54 2015//
+/divrem_1.asm/1.1.1.2/Wed May 13 22:26:54 2015//
+/divrem_2.asm/1.1.1.2/Wed May 13 22:26:54 2015//
+/gmp-mparam.h/1.1.1.1/Wed May 13 22:26:54 2015//
+/invert_limb.asm/1.1.1.2/Wed May 13 22:26:54 2015//
+/mod_1_1.asm/1.1.1.1/Wed May 13 22:26:54 2015//
+/mod_1_4.asm/1.1.1.1/Wed May 13 22:26:54 2015//
+/mod_34lsub1.asm/1.1.1.2/Wed May 13 22:26:54 2015//
+/mode1o.asm/1.1.1.2/Wed May 13 22:26:54 2015//
+/mul_1.asm/1.1.1.2/Wed May 13 22:26:54 2015//
+/mul_basecase.asm/1.1.1.2/Wed May 13 22:26:54 2015//
+/rsh1add_n.asm/1.1.1.2/Wed May 13 22:26:54 2015//
+/rsh1sub_n.asm/1.1.1.2/Wed May 13 22:26:54 2015//
+/sqr_basecase.asm/1.1.1.1/Wed May 13 22:26:54 2015//
