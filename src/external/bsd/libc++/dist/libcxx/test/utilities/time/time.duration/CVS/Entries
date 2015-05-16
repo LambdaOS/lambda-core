@@ -1,8 +1,3 @@
-/default_ratio.pass.cpp/1.1.1.1/Fri May 17 23:02:33 2013//
-/duration.fail.cpp/1.1.1.1/Fri May 17 23:02:33 2013//
-/positive_num.fail.cpp/1.1.1.1/Fri May 17 23:02:33 2013//
-/ratio.fail.cpp/1.1.1.1/Fri May 17 23:02:33 2013//
-/types.pass.cpp/1.1.1.1/Fri May 17 23:02:33 2013//
 D/time.duration.arithmetic////
 D/time.duration.cast////
 D/time.duration.comparisons////
@@ -11,3 +6,8 @@ D/time.duration.literals////
 D/time.duration.nonmember////
 D/time.duration.observer////
 D/time.duration.special////
+/default_ratio.pass.cpp/1.1.1.1/Wed May 13 22:24:22 2015//
+/duration.fail.cpp/1.1.1.1/Wed May 13 22:24:22 2015//
+/positive_num.fail.cpp/1.1.1.1/Wed May 13 22:24:22 2015//
+/ratio.fail.cpp/1.1.1.1/Wed May 13 22:24:22 2015//
+/types.pass.cpp/1.1.1.1/Wed May 13 22:24:22 2015//

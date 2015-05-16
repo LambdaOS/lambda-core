@@ -1,4 +1,4 @@
-.\"	$NetBSD: module.9,v 1.34 2015/05/13 12:21:04 pgoyette Exp $
+.\"	$NetBSD: module.9,v 1.36 2015/05/14 13:59:57 wiz Exp $
 .\"
 .\" Copyright (c) 2010 The NetBSD Foundation, Inc.
 .\" All rights reserved.
@@ -418,6 +418,10 @@ Note however that modules loaded manually with
 .Xr modload 8
 are never auto-unloaded.
 .El
+.Sh EXAMPLES
+A set of example modules is available in the
+.Pa src/sys/modules.examples
+directory hierarchy.
 .Sh CODE REFERENCES
 The core of the kernel module implementation is in
 .Pa sys/kern/kern_module.c

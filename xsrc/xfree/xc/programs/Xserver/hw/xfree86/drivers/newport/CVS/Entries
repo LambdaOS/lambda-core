@@ -1,11 +1,11 @@
-/Imakefile/1.1.1.7/Fri Mar 18 13:11:49 2005//
-/XF86Config.indy/1.1.1.4/Fri Feb 28 13:20:12 2003//
-/newport.h/1.2/Sat Feb  7 04:20:32 2004//
-/newport.man/1.1.1.4/Fri Mar 18 13:11:49 2005//
-/newport_cmap.c/1.1.1.5/Fri Feb 28 13:20:12 2003//
-/newport_cursor.c/1.1.1.1/Fri Feb 28 13:20:12 2003//
-/newport_driver.c/1.5/Fri Mar  5 16:33:05 2004//
-/newport_regs.c/1.1.1.5/Fri Feb 28 13:20:12 2003//
-/newport_regs.h/1.1.1.5/Fri Feb 28 13:20:12 2003//
-/newport_shadow.c/1.1.1.5/Fri Feb 28 13:20:12 2003//
+/Imakefile/1.1.1.7/Wed May 13 23:35:02 2015//
+/XF86Config.indy/1.1.1.4/Wed May 13 23:35:02 2015//
+/newport.h/1.2/Wed May 13 23:35:02 2015//
+/newport.man/1.1.1.4/Wed May 13 23:35:02 2015//
+/newport_cmap.c/1.1.1.5/Wed May 13 23:35:02 2015//
+/newport_cursor.c/1.1.1.1/Wed May 13 23:35:02 2015//
+/newport_driver.c/1.5/Wed May 13 23:35:02 2015//
+/newport_regs.c/1.1.1.5/Wed May 13 23:35:02 2015//
+/newport_regs.h/1.1.1.5/Wed May 13 23:35:02 2015//
+/newport_shadow.c/1.1.1.5/Wed May 13 23:35:02 2015//
 D

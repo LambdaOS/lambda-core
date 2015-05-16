@@ -1,9 +1,9 @@
-/Imakefile/1.1.1.5/Fri Mar  5 14:27:24 2004//
-/XLoad.ad/1.1.1.1/Mon Jan  1 12:47:27 2001//
-/get_load.c/1.1.1.6/Fri Mar  5 14:27:24 2004//
-/get_rload.c/1.1.1.1/Sat Jan 19 15:19:37 2002//
-/xload.bit/1.1.1.1/Mon Jan  1 12:47:27 2001//
-/xload.c/1.1.1.5/Fri Feb 28 13:19:40 2003//
-/xload.h/1.1.1.1/Sat Jan 19 15:19:37 2002//
-/xload.man/1.1.1.5/Fri Mar 18 13:09:37 2005//
+/Imakefile/1.1.1.5/Wed May 13 23:35:04 2015//
+/XLoad.ad/1.1.1.1/Wed May 13 23:35:04 2015//
+/get_load.c/1.1.1.6/Wed May 13 23:35:04 2015//
+/get_rload.c/1.1.1.1/Wed May 13 23:35:04 2015//
+/xload.bit/1.1.1.1/Wed May 13 23:35:04 2015//
+/xload.c/1.1.1.5/Wed May 13 23:35:04 2015//
+/xload.h/1.1.1.1/Wed May 13 23:35:04 2015//
+/xload.man/1.1.1.5/Wed May 13 23:35:04 2015//
 D

@@ -1,14 +1,14 @@
-/Imakefile/1.1.1.2/Fri Mar  5 14:24:22 2004//
-/Xcursor-def.cpp/1.1.1.2/Fri Mar  5 14:24:23 2004//
-/Xcursor.h/1.1.1.1/Fri Feb 28 13:18:51 2003//
-/Xcursor.man/1.1.1.2/Fri Mar  5 14:24:23 2004//
-/config-subst/1.1.1.1/Fri Feb 28 13:18:51 2003//
-/cursor.c/1.1.1.1/Fri Feb 28 13:18:51 2003//
-/display.c/1.1.1.1/Fri Feb 28 13:18:51 2003//
-/file.c/1.1.1.1/Fri Feb 28 13:18:51 2003//
-/library.c/1.1.1.2/Fri Mar  5 14:24:23 2004//
-/xcursor-config.in/1.1.1.2/Fri Mar  5 14:24:23 2004//
-/xcursor.pc.in/1.4/Fri Mar  5 19:23:23 2004//
-/xcursorint.h/1.1.1.1/Fri Feb 28 13:18:51 2003//
-/xlib.c/1.1.1.1/Fri Feb 28 13:18:51 2003//
+/Imakefile/1.1.1.2/Wed May 13 23:35:05 2015//
+/Xcursor-def.cpp/1.1.1.2/Wed May 13 23:35:05 2015//
+/Xcursor.h/1.1.1.1/Wed May 13 23:35:05 2015//
+/Xcursor.man/1.1.1.2/Wed May 13 23:35:05 2015//
+/config-subst/1.1.1.1/Wed May 13 23:35:05 2015//
+/cursor.c/1.1.1.1/Wed May 13 23:35:05 2015//
+/display.c/1.1.1.1/Wed May 13 23:35:05 2015//
+/file.c/1.1.1.1/Wed May 13 23:35:05 2015//
+/library.c/1.1.1.2/Wed May 13 23:35:05 2015//
+/xcursor-config.in/1.1.1.2/Wed May 13 23:35:05 2015//
+/xcursor.pc.in/1.4/Wed May 13 23:35:05 2015//
+/xcursorint.h/1.1.1.1/Wed May 13 23:35:05 2015//
+/xlib.c/1.1.1.1/Wed May 13 23:35:05 2015//
 D

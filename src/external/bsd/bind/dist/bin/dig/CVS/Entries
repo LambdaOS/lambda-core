@@ -1,16 +1,16 @@
-/Makefile.in/1.1.1.9/Wed Dec 10 02:25:11 2014//
-/dig.1/1.9/Wed Dec 10 04:37:51 2014//
-/dig.c/1.10/Wed Dec 10 04:37:51 2014//
-/dig.docbook/1.1.1.10/Wed Dec 10 02:25:11 2014//
-/dig.html/1.1.1.10/Wed Dec 10 02:25:11 2014//
-/dighost.c/1.14/Wed Dec 10 04:37:51 2014//
-/host.1/1.5/Wed Dec 10 04:37:51 2014//
-/host.c/1.10/Wed Dec 10 04:37:51 2014//
-/host.docbook/1.1.1.5/Tue Jul  8 04:45:08 2014//
-/host.html/1.1.1.6/Wed Dec 10 02:25:11 2014//
-/nslookup.1/1.7/Wed Dec 10 04:37:51 2014//
-/nslookup.c/1.10/Wed Dec 10 04:37:51 2014//
-/nslookup.docbook/1.1.1.7/Tue Jul  8 04:45:05 2014//
-/nslookup.html/1.1.1.9/Wed Dec 10 02:25:11 2014//
 D/include////
 D/win32////
+/Makefile.in/1.1.1.9/Wed May 13 22:23:33 2015//
+/dig.1/1.9/Wed May 13 22:23:33 2015//
+/dig.c/1.10/Wed May 13 22:23:33 2015//
+/dig.docbook/1.1.1.10/Wed May 13 22:23:33 2015//
+/dig.html/1.1.1.10/Wed May 13 22:23:33 2015//
+/dighost.c/1.14/Wed May 13 22:23:33 2015//
+/host.1/1.5/Wed May 13 22:23:33 2015//
+/host.c/1.10/Wed May 13 22:23:33 2015//
+/host.docbook/1.1.1.5/Wed May 13 22:23:33 2015//
+/host.html/1.1.1.6/Wed May 13 22:23:33 2015//
+/nslookup.1/1.7/Wed May 13 22:23:33 2015//
+/nslookup.c/1.10/Wed May 13 22:23:33 2015//
+/nslookup.docbook/1.1.1.7/Wed May 13 22:23:33 2015//
+/nslookup.html/1.1.1.9/Wed May 13 22:23:33 2015//

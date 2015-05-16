@@ -1,6 +1,3 @@
-/input_iterator.h/1.1.1.2/Thu May 15 23:53:13 2014//
-/test_traits.h/1.1.1.2/Thu May 15 23:53:13 2014//
-/types.pass.cpp/1.1.1.2/Thu Jul  4 22:20:54 2013//
 D/string.access////
 D/string.capacity////
 D/string.cons////
@@ -9,3 +6,6 @@ D/string.modifiers////
 D/string.nonmembers////
 D/string.ops////
 D/string.require////
+/input_iterator.h/1.1.1.2/Wed May 13 22:24:26 2015//
+/test_traits.h/1.1.1.2/Wed May 13 22:24:26 2015//
+/types.pass.cpp/1.1.1.2/Wed May 13 22:24:26 2015//

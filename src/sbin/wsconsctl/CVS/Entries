@@ -1,13 +1,13 @@
-/Makefile/1.14/Sun Oct 26 14:55:17 2008//
-/display.c/1.16/Tue Mar 20 18:50:31 2012//
-/keyboard.c/1.9/Mon Apr 28 20:23:09 2008//
-/keysym.c/1.10/Fri Jan 29 09:49:34 2010//
-/map_parse.y/1.12/Tue Oct 23 15:30:45 2012//
-/map_scan.l/1.7/Tue May 24 12:07:14 2011//
-/mkkeysym.sh/1.2/Sun Jun 26 22:45:50 2005//
-/mouse.c/1.10/Mon Dec 24 01:29:20 2012//
-/util.c/1.31/Mon Dec 24 01:20:12 2012//
-/wsconsctl.8/1.28/Tue Feb 14 11:05:32 2012//
-/wsconsctl.c/1.18/Mon Aug 25 00:14:46 2008//
-/wsconsctl.h/1.12/Mon Dec 24 01:20:44 2012//
+/Makefile/1.14/Wed May 13 22:29:25 2015//
+/display.c/1.16/Wed May 13 22:29:25 2015//
+/keyboard.c/1.9/Wed May 13 22:29:25 2015//
+/keysym.c/1.10/Wed May 13 22:29:25 2015//
+/map_parse.y/1.12/Wed May 13 22:29:25 2015//
+/map_scan.l/1.7/Wed May 13 22:29:25 2015//
+/mkkeysym.sh/1.2/Wed May 13 22:29:25 2015//
+/mouse.c/1.10/Wed May 13 22:29:25 2015//
+/util.c/1.31/Wed May 13 22:29:25 2015//
+/wsconsctl.8/1.28/Wed May 13 22:29:25 2015//
+/wsconsctl.c/1.18/Wed May 13 22:29:25 2015//
+/wsconsctl.h/1.12/Wed May 13 22:29:25 2015//
 D

@@ -1,9 +1,3 @@
-/AnotherModule.h/1.1.1.1/Fri May 30 18:14:48 2014//
-/AnotherModuleExcluded.h/1.1.1.1/Fri May 30 18:14:48 2014//
-/C.h/1.1.1.1/Fri May 30 18:14:48 2014//
-/NotFramework.h/1.1.1.1/Fri May 30 18:14:48 2014//
-/NotInModule.h/1.1.1.1/Fri May 30 18:14:48 2014//
-/module.modulemap/1.1.1.1/Fri May 30 18:14:48 2014//
 D/A.framework////
 D/B.framework////
 D/ExcludedFromAnotherModule.framework////
@@ -16,3 +10,9 @@ D/FromSubframework.framework////
 D/FromUmbrella.framework////
 D/IncludeExcluded.framework////
 D/umbrella////
+/AnotherModule.h/1.1.1.1/Wed May 13 22:25:35 2015//
+/AnotherModuleExcluded.h/1.1.1.1/Wed May 13 22:25:35 2015//
+/C.h/1.1.1.1/Wed May 13 22:25:35 2015//
+/NotFramework.h/1.1.1.1/Wed May 13 22:25:35 2015//
+/NotInModule.h/1.1.1.1/Wed May 13 22:25:35 2015//
+/module.modulemap/1.1.1.1/Wed May 13 22:25:35 2015//

@@ -1,18 +1,3 @@
-/lit.local.cfg/1.1.1.2/Sun Aug 10 17:04:40 2014//
-/micromips.txt/1.1.1.3/Thu Jan 29 19:54:39 2015//
-/micromips_le.txt/1.1.1.3/Thu Jan 29 19:54:39 2015//
-/mips-dsp.txt/1.1.1.1/Thu Nov 28 14:18:08 2013//
-/mips2.txt/1.1.1.1/Thu Jan 29 19:54:39 2015//
-/mips32.txt/1.1.1.3/Thu Jan 29 19:54:39 2015//
-/mips32_le.txt/1.1.1.2/Fri May 30 18:11:25 2014//
-/mips32r2.txt/1.1.1.3/Thu Jan 29 19:54:39 2015//
-/mips32r2_le.txt/1.1.1.3/Thu Jan 29 19:54:39 2015//
-/mips32r6.txt/1.1.1.2/Sun Aug 10 17:04:40 2014//
-/mips64.txt/1.1.1.2/Thu Jan 29 19:54:39 2015//
-/mips64_le.txt/1.1.1.1/Thu Nov 28 14:18:08 2013//
-/mips64r2.txt/1.1.1.1/Thu Nov 28 14:18:08 2013//
-/mips64r2_le.txt/1.1.1.1/Thu Nov 28 14:18:08 2013//
-/mips64r6.txt/1.1.1.2/Sun Aug 10 17:04:40 2014//
 D/mips1////
 D/mips2////
 D/mips3////
@@ -20,3 +5,18 @@ D/mips32////
 D/mips32r2////
 D/mips4////
 D/msa////
+/lit.local.cfg/1.1.1.2/Wed May 13 22:25:59 2015//
+/micromips.txt/1.1.1.3/Wed May 13 22:25:59 2015//
+/micromips_le.txt/1.1.1.3/Wed May 13 22:25:59 2015//
+/mips-dsp.txt/1.1.1.1/Wed May 13 22:25:59 2015//
+/mips2.txt/1.1.1.1/Wed May 13 22:25:59 2015//
+/mips32.txt/1.1.1.3/Wed May 13 22:25:59 2015//
+/mips32_le.txt/1.1.1.2/Wed May 13 22:25:59 2015//
+/mips32r2.txt/1.1.1.3/Wed May 13 22:25:59 2015//
+/mips32r2_le.txt/1.1.1.3/Wed May 13 22:25:59 2015//
+/mips32r6.txt/1.1.1.2/Wed May 13 22:25:59 2015//
+/mips64.txt/1.1.1.2/Wed May 13 22:25:59 2015//
+/mips64_le.txt/1.1.1.1/Wed May 13 22:25:59 2015//
+/mips64r2.txt/1.1.1.1/Wed May 13 22:25:59 2015//
+/mips64r2_le.txt/1.1.1.1/Wed May 13 22:25:59 2015//
+/mips64r6.txt/1.1.1.2/Wed May 13 22:25:59 2015//

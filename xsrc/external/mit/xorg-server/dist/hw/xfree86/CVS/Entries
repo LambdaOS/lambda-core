@@ -1,8 +1,3 @@
-/Makefile.am/1.1.1.4/Tue Aug  2 06:56:54 2011//
-/Makefile.in/1.1.1.6/Mon Jun  3 07:34:23 2013//
-/libxorg.c/1.1.1.1/Tue Nov 23 05:21:31 2010//
-/xorg.c/1.1.1.1/Thu Jul 31 19:49:36 2008//
-/xorgconf.cpp/1.1.1.4/Tue Aug  2 06:56:54 2011//
 D/common////
 D/ddc////
 D/dixmods////
@@ -24,3 +19,8 @@ D/vbe////
 D/vgahw////
 D/x86emu////
 D/xaa////
+/Makefile.am/1.1.1.4/Wed May 13 23:34:59 2015//
+/Makefile.in/1.1.1.6/Wed May 13 23:34:59 2015//
+/libxorg.c/1.1.1.1/Wed May 13 23:34:59 2015//
+/xorg.c/1.1.1.1/Wed May 13 23:34:59 2015//
+/xorgconf.cpp/1.1.1.4/Wed May 13 23:34:59 2015//

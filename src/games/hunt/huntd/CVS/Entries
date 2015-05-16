@@ -1,14 +1,14 @@
-/Makefile/1.6/Sat Mar 29 22:29:55 2014//
-/answer.c/1.23/Sun Mar 30 05:53:12 2014//
-/draw.c/1.9/Sat Mar 29 19:41:10 2014//
-/driver.c/1.35/Sun Mar 30 01:44:37 2014//
-/execute.c/1.12/Sat Mar 29 21:38:54 2014//
-/expl.c/1.8/Sat Mar 29 21:33:41 2014//
-/extern.c/1.10/Sun Mar 30 00:26:58 2014//
-/hunt.h/1.31/Sun Mar 30 05:53:12 2014//
-/huntd.6/1.12/Sun Mar 30 01:44:37 2014//
-/makemaze.c/1.11/Sat Mar 29 20:44:20 2014//
-/shots.c/1.14/Sat Mar 29 21:43:19 2014//
-/support.c/1.2/Sat Mar 29 22:30:27 2014//
-/terminal.c/1.7/Sat Jul  4 04:29:55 2009//
+/Makefile/1.6/Wed May 13 22:28:46 2015//
+/answer.c/1.23/Wed May 13 22:28:46 2015//
+/draw.c/1.9/Wed May 13 22:28:46 2015//
+/driver.c/1.35/Wed May 13 22:28:46 2015//
+/execute.c/1.12/Wed May 13 22:28:46 2015//
+/expl.c/1.8/Wed May 13 22:28:46 2015//
+/extern.c/1.10/Wed May 13 22:28:46 2015//
+/hunt.h/1.31/Wed May 13 22:28:46 2015//
+/huntd.6/1.12/Wed May 13 22:28:46 2015//
+/makemaze.c/1.11/Wed May 13 22:28:46 2015//
+/shots.c/1.14/Wed May 13 22:28:46 2015//
+/support.c/1.2/Wed May 13 22:28:46 2015//
+/terminal.c/1.7/Wed May 13 22:28:46 2015//
 D

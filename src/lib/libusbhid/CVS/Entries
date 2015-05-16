@@ -1,11 +1,11 @@
-/Makefile/1.1/Fri Dec 28 17:45:26 2001//
-/data.c/1.6/Wed May 12 18:28:20 2010//
-/descr.c/1.5/Wed Apr 11 20:56:20 2007//
-/parse.c/1.8/Mon May 23 15:16:27 2011//
-/shlib_version/1.1/Fri Dec 28 17:45:27 2001//
-/usage.c/1.7/Sun Apr  9 00:49:55 2006//
-/usb_hid_usages/1.6/Wed May  9 16:21:06 2012//
-/usbhid.3/1.14/Thu Mar 15 19:04:47 2012//
-/usbhid.h/1.5/Wed Apr 11 20:56:20 2007//
-/usbvar.h/1.2/Sat Jul 26 19:25:09 2003//
+/Makefile/1.1/Wed May 13 22:29:05 2015//
+/data.c/1.6/Wed May 13 22:29:05 2015//
+/descr.c/1.5/Wed May 13 22:29:05 2015//
+/parse.c/1.8/Wed May 13 22:29:05 2015//
+/shlib_version/1.1/Wed May 13 22:29:05 2015//
+/usage.c/1.7/Wed May 13 22:29:05 2015//
+/usb_hid_usages/1.6/Wed May 13 22:29:05 2015//
+/usbhid.3/1.14/Wed May 13 22:29:05 2015//
+/usbhid.h/1.5/Wed May 13 22:29:05 2015//
+/usbvar.h/1.2/Wed May 13 22:29:05 2015//
 D

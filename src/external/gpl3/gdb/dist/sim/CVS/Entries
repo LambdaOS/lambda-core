@@ -1,10 +1,3 @@
-/ChangeLog/1.1.1.3/Sun Jun 22 23:40:09 2014//
-/MAINTAINERS/1.1.1.2/Thu Oct  3 15:44:26 2013//
-/Makefile.in/1.1.1.3/Sun Jun 22 23:40:09 2014//
-/README-HACKING/1.1.1.2/Sun Jun 22 23:40:09 2014//
-/configure/1.4/Sun Jun 22 23:52:59 2014//
-/configure.ac/1.1.1.1/Sat Sep 24 19:57:07 2011//
-/configure.tgt/1.1.1.3/Sun Jun 22 23:40:09 2014//
 D/arm////
 D/avr////
 D/bfin////
@@ -34,3 +27,10 @@ D/sh////
 D/sh64////
 D/testsuite////
 D/v850////
+/ChangeLog/1.1.1.3/Wed May 13 22:28:44 2015//
+/MAINTAINERS/1.1.1.2/Wed May 13 22:28:44 2015//
+/Makefile.in/1.1.1.3/Wed May 13 22:28:44 2015//
+/README-HACKING/1.1.1.2/Wed May 13 22:28:44 2015//
+/configure/1.4/Wed May 13 22:28:44 2015//
+/configure.ac/1.1.1.1/Wed May 13 22:28:44 2015//
+/configure.tgt/1.1.1.3/Wed May 13 22:28:44 2015//

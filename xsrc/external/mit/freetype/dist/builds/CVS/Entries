@@ -1,11 +1,3 @@
-/detect.mk/1.1.1.3/Thu Mar 12 07:49:34 2015//
-/exports.mk/1.1.1.3/Wed Jun  5 07:49:48 2013//
-/freetype.mk/1.1.1.4/Thu Mar 12 07:49:34 2015//
-/link_dos.mk/1.1.1.1/Wed Jul 30 02:36:20 2008//
-/link_std.mk/1.1.1.1/Wed Jul 30 02:36:20 2008//
-/modules.mk/1.1.1.2/Thu Mar 20 08:22:50 2014//
-/newline/1.1.1.1/Wed Jul 30 02:36:20 2008//
-/toplevel.mk/1.1.1.6/Thu Mar 12 07:49:34 2015//
 D/amiga////
 D/ansi////
 D/atari////
@@ -20,3 +12,11 @@ D/unix////
 D/vms////
 D/wince////
 D/windows////
+/detect.mk/1.1.1.3/Wed May 13 23:34:48 2015//
+/exports.mk/1.1.1.3/Wed May 13 23:34:48 2015//
+/freetype.mk/1.1.1.4/Wed May 13 23:34:48 2015//
+/link_dos.mk/1.1.1.1/Wed May 13 23:34:48 2015//
+/link_std.mk/1.1.1.1/Wed May 13 23:34:48 2015//
+/modules.mk/1.1.1.2/Wed May 13 23:34:48 2015//
+/newline/1.1.1.1/Wed May 13 23:34:48 2015//
+/toplevel.mk/1.1.1.6/Wed May 13 23:34:48 2015//
