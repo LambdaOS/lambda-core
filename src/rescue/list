@@ -1,44 +1,5 @@
 #	$NetBSD: list,v 1.46 2014/08/09 18:32:34 apb Exp $
 
-SRCDIRS	bin
-
-PROG	cat
-PROG	chio
-PROG	chmod
-PROG	cp
-PROG	csh
-PROG	date
-PROG	dd
-PROG	df
-PROG	domainname
-PROG	echo
-PROG	ed
-PROG	expr
-PROG	hostname
-PROG	kill
-PROG	ksh
-PROG	ln
-PROG	ls
-PROG	mkdir
-PROG	mt
-PROG	mv
-PROG	pax		tar
-PROG	ps
-PROG	pwd
-PROG	rcmd
-PROG	rcp
-PROG	rm
-PROG	rmdir
-PROG	sh
-PROG	sleep
-PROG	stty
-PROG	sync
-PROG	test		[
-
-ARGVLN	csh -csh
-ARGVLN	ksh -ksh
-ARGVLN	sh -sh
-
 SRCDIRS	sbin
 
 PROG	atactl
@@ -117,6 +78,45 @@ PROG	umount
 PROG	wdogctl
 PROG	veriexecctl
 PROG	wsconsctl
+
+SRCDIRS	bin
+
+PROG	cat
+PROG	chio
+PROG	chmod
+PROG	cp
+PROG	csh
+PROG	date
+PROG	dd
+PROG	df
+PROG	domainname
+PROG	echo
+PROG	ed
+PROG	expr
+PROG	hostname
+PROG	kill
+PROG	ksh
+PROG	ln
+PROG	ls
+PROG	mkdir
+PROG	mt
+PROG	mv
+PROG	pax		tar
+PROG	ps
+PROG	pwd
+PROG	rcmd
+PROG	rcp
+PROG	rm
+PROG	rmdir
+PROG	sh
+PROG	sleep
+PROG	stty
+PROG	sync
+PROG	test		[
+
+ARGVLN	csh -csh
+ARGVLN	ksh -ksh
+ARGVLN	sh -sh
 
 SRCDIRS	usr.bin
 
